@@ -1,0 +1,4 @@
+GET localhost:8080/redis/set
+
+###
+GET localhost:8080/redis/get
