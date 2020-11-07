@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+dubbo:
+  application:
+    name: consumer-order
+  protocol:
+    name: dubbo
+    port: 20880
+  registry:
+    address: zookeeper://localhost:2181
