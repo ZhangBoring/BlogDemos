@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.boring.pkg.spring.boot.starter.MyPackageAutoConfiguration
