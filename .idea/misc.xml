@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/boot-dubbo/boot-dubbo-consumer-order/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-dubbo/boot-dubbo-api-member-service/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-dubbo/boot-dubbo-provider-member-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/my-starter/my-package/pom.xml" />
+        <option value="$PROJECT_DIR$/my-starter/my-starter-test/pom.xml" />
+        <option value="$PROJECT_DIR$/my-starter/my-package-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/boot_redis_cluster/boot_cluster/pom.xml" />
+        <option value="$PROJECT_DIR$/boot_redis_cluster/boot_sentinel/pom.xml" />
+        <option value="$PROJECT_DIR$/sharding-jdbc-demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="hotspot-jdk 11" project-jdk-type="JavaSDK" />
+</project>

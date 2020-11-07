@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BlogDemos.iml" filepath="$PROJECT_DIR$/.idea/BlogDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-dubbo/boot-dubbo-api-member-service/boot-dubbo-api-member-service.iml" filepath="$PROJECT_DIR$/boot-dubbo/boot-dubbo-api-member-service/boot-dubbo-api-member-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-dubbo/boot-dubbo-consumer-order/boot-dubbo-consumer-order.iml" filepath="$PROJECT_DIR$/boot-dubbo/boot-dubbo-consumer-order/boot-dubbo-consumer-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-dubbo/boot-dubbo-provider-member-service-impl/boot-dubbo-provider-member-service-impl.iml" filepath="$PROJECT_DIR$/boot-dubbo/boot-dubbo-provider-member-service-impl/boot-dubbo-provider-member-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_redis_cluster/boot_cluster/boot_cluster.iml" filepath="$PROJECT_DIR$/boot_redis_cluster/boot_cluster/boot_cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_redis_cluster/boot_sentinel/boot_sentinel.iml" filepath="$PROJECT_DIR$/boot_redis_cluster/boot_sentinel/boot_sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-starter/my-package/my-package.iml" filepath="$PROJECT_DIR$/my-starter/my-package/my-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-starter/my-package-spring-boot-starter/my-package-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-starter/my-package-spring-boot-starter/my-package-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-starter/my-starter-test/my-starter-test.iml" filepath="$PROJECT_DIR$/my-starter/my-starter-test/my-starter-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-jdbc-demo/sharding-jdbc-demo.iml" filepath="$PROJECT_DIR$/sharding-jdbc-demo/sharding-jdbc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadpool-demos/threadpool-demos.iml" filepath="$PROJECT_DIR$/threadpool-demos/threadpool-demos.iml" />
+    </modules>
+  </component>
+</project>

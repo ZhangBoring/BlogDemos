@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/boot-dubbo/boot-dubbo-api-member-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-dubbo/boot-dubbo-consumer-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-dubbo/boot-dubbo-consumer-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-dubbo/boot-dubbo-provider-member-service-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-dubbo/boot-dubbo-provider-member-service-impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot_redis_cluster/boot_cluster/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot_redis_cluster/boot_sentinel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-starter/my-package-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-starter/my-package-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-starter/my-package/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-starter/my-starter-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-jdbc-demo/src/main/java" charset="UTF-8" />
+  </component>
+</project>
