@@ -1,0 +1,6 @@
+-- image
+docker pull mysql:5.7
+
+-- container
+docker run -p 13306:3306 --name mysql-ds0 -e MYSQL_ROOT_PASSWORD=123456 -d mysql:5.7
+docker run -p 23306:3306 --name mysql-ds1 -e MYSQL_ROOT_PASSWORD=123456 -d mysql:5.7
