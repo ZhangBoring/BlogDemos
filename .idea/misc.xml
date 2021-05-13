@@ -12,8 +12,10 @@
         <option value="$PROJECT_DIR$/boot_redis_cluster/boot_cluster/pom.xml" />
         <option value="$PROJECT_DIR$/boot_redis_cluster/boot_sentinel/pom.xml" />
         <option value="$PROJECT_DIR$/sharding-jdbc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/effective-java/effective-java/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="hotspot-jdk 11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="hotspot-jdk 11" project-jdk-type="JavaSDK" />
 </project>

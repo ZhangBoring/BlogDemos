@@ -23,6 +23,7 @@
       <module name="boot-dubbo-provider-member-service-impl" target="11" />
       <module name="boot_cluster" target="11" />
       <module name="boot_sentinel" target="11" />
+      <module name="effective-java" target="1.7" />
       <module name="my-package" target="11" />
       <module name="my-package-spring-boot-starter" target="11" />
       <module name="my-starter-test" target="11" />
@@ -35,6 +36,7 @@
       <module name="boot-dubbo-provider-member-service-impl" options="-parameters" />
       <module name="boot_cluster" options="-parameters" />
       <module name="boot_sentinel" options="-parameters" />
+      <module name="effective-java" options="" />
       <module name="my-starter-test" options="-parameters" />
       <module name="sharding-jdbc-demo" options="-parameters" />
     </option>
